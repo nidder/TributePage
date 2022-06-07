@@ -1,0 +1,63 @@
+#image {
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+  display: block; 
+}
+
+#img-div {
+  text-align: center;
+  font-style: italic;
+  padding: 70px;
+}
+body{
+  background: url(https://th.bing.com/th/id/R44b5b433574b99fb867c12627b065d7e?rik=yZtXtiCk48UH6A&riu=http%3a%2f%2fwww.designbolts.com%2fwp-content%2fuploads%2f2012%2f12%2fWashi-White-Seamless-Pattern-For-Website-Background.jpg&ehk=U4FyIlfBtVLlzBRsttFbZi3x3laIidTEKuurc25I2Cs%3d&risl=&pid=ImgRaw)
+}
+
+h1 { 
+  text-align: center;
+  font-size: 70px;
+  display: block;
+  padding: 20px;
+  font-family: helvetica;
+}
+
+
+
+h2{ 
+  font-size: 35px;
+  font-weight: normal;
+  margin: 0px 0px 0px 50px;
+}
+
+h3 {
+  font-size: 35px;
+  font-weight: normal;
+}
+.color-green { 
+  color: #006A4E;  
+}
+
+#img-caption{
+  font-size: 30px;
+}
+p{
+  font-size: 30px;
+}
+
+li{
+  font-size: 30px;
+  display: block;
+  
+}
+
+#awards{
+  text-align: center;
+  
+}
+footer { 
+font-weight: bold;
+font-size: 30px;
+text-align: center;
+}
+
